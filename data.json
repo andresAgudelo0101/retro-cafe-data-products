@@ -81,6 +81,15 @@
       "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
+    },
+     {
+      "id": 10,
+      "nombre": "Porcion Pastel",
+      "descripcion": "Deliciosa torta de chocolate",
+      "precio": 2000,
+      "categoria": "Reposteria",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
     }
   ]
 }
