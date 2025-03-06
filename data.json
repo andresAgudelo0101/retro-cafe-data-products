@@ -6,7 +6,7 @@
       "nombre": "Tinto",
       "descripcion": "Café negro fuerte y aromático.",
       "precio": 1000,
-      "categoria": "Bebidas calientes",
+      "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/14GPOvb8Ez0ZexwXdZOmkLUCqYtkoF0fg"
     },
@@ -15,7 +15,7 @@
       "nombre": "Capuchino",
       "descripcion": "Café espresso con leche vaporizada y espuma de leche.",
       "precio": 2000,
-      "categoria": "Bebidas calientes",
+      "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
     },
@@ -24,7 +24,7 @@
       "nombre": "Perico",
       "descripcion": "Café tradicional con leche caliente",
       "precio": 1500,
-      "categoria": "Bebidas calientes",
+      "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1NxyQ1rtRY-iYkBFn3NYpkauIqY2yODIl"
     },
@@ -33,7 +33,7 @@
       "nombre": "Frapuchino",
       "descripcion": "Batido de leche hielo y cáfe, con caramelo y crema de chantilli",
       "precio": 7000,
-      "categoria": "Bebidas Heladas",
+      "categoria": "Bebidas-Heladas",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/18W6QF_ZBEM_sozhPtQxPGijeRQBY5GEG"
     },
@@ -42,7 +42,7 @@
       "nombre": "Frape de milo",
       "descripcion": "Batido de leche hielo y milo, con caramelo, crema de chantilli y galletas de milo",
       "precio": 10000,
-      "categoria": "Bebidas Heladas",
+      "categoria": "Bebidas-Heladas",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1kmQ86XT7j4vx33g-l7A7nN83ZuKLeSYs"
     },
@@ -51,7 +51,7 @@
       "nombre": "Frape de oreo",
       "descripcion": "Batido de leche hielo y galletas oreo, con salsa de chocolate, crema de chantilli y galletas de oreo",
       "precio": 10000,
-      "categoria": "Bebidas Heladas",
+      "categoria": "Bebidas-Heladas",
       "disponible": false,
       "imagen": "https://lh3.googleusercontent.com/d/1sr1YDv1ZQ2YY4gq4CNiFPDr3YAwZCBMx"
     },
@@ -60,7 +60,7 @@
       "nombre": "Milo",
       "descripcion": "bebida refrescante con una buena adicion de hielos",
       "precio": 4000,
-      "categoria": "Bebidas Heladas",
+      "categoria": "Bebidas-Heladas",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1n1i_RNDqPJaOogLbmTsSf5BclMsLDwHq"
     },
@@ -69,7 +69,7 @@
       "nombre": "Aromatica",
       "descripcion": "puedes escoger tanto en leche o agua, de limon o canela ",
       "precio": 1000,
-      "categoria": "Bebidas calientes",
+      "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/12vsO1nkYi98xdgNWm_6Jsikgce5vRKbf"
     },
@@ -78,7 +78,7 @@
       "nombre": "Vaso de leche",
       "descripcion": "Puedes elegir tanto fria como caliente",
       "precio": 1000,
-      "categoria": "Bebidas calientes",
+      "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
     }
