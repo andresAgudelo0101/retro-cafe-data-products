@@ -8,7 +8,7 @@
       "precio": 1000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/14GPOvb8Ez0ZexwXdZOmkLUCqYtkoF0fg"
+      "imagen": "https://lh3.googleusercontent.com/d/8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
     },
     {
       "id": 2,
@@ -120,3 +120,4 @@
     }
   ]
 }
+
