@@ -12,15 +12,6 @@
     },
     {
       "id": 2,
-      "nombre": "Capuchino",
-      "descripcion": "Café espresso con leche vaporizada y espuma de leche.",
-      "precio": 2000,
-      "categoria": "Bebidas-calientes",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
-    },
-    {
-      "id": 3,
       "nombre": "Perico",
       "descripcion": "Café tradicional con leche caliente",
       "precio": 1500,
@@ -29,88 +20,18 @@
       "imagen": "https://lh3.googleusercontent.com/d/1NxyQ1rtRY-iYkBFn3NYpkauIqY2yODIl"
     },
     {
-      "id": 4,
-      "nombre": "Frape",
-      "descripcion": "Batido de leche hielo y milo, con caramelo, crema de chantilli y galletas de milo",
-      "precio": 10000,
-      "categoria": "Bebidas-Heladas",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1qxw3L9bpVnysfhvFRAuRvsAGcIPWkzVs" 
-    },
-    {
-      "id": 6,
-      "nombre": "Frape de oreo",
-      "descripcion": "Batido de leche hielo y galletas oreo, con salsa de chocolate, crema de chantilli y galletas de oreo",
-      "precio": 10000,
-      "categoria": "Bebidas-Heladas",
-      "disponible": false,
-      "imagen": "https://lh3.googleusercontent.com/d/1sr1YDv1ZQ2YY4gq4CNiFPDr3YAwZCBMx"
-    },
-    {
-      "id": 7,
-      "nombre": "Milo",
-      "descripcion": "bebida refrescante con una buena adicion de hielos",
-      "precio": 4000,
-      "categoria": "Bebidas-Heladas",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1n1i_RNDqPJaOogLbmTsSf5BclMsLDwHq"
-    },
-    {
-      "id": 8,
-      "nombre": "Aromatica",
-      "descripcion": "puedes escoger tanto en leche o agua, de limon o canela ",
-      "precio": 1000,
+      "id": 3,
+      "nombre": "Capuchino",
+      "descripcion": "Café espresso con leche vaporizada y espuma de leche.",
+      "precio": 7000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/12vsO1nkYi98xdgNWm_6Jsikgce5vRKbf"
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
     },
-    {
-      "id": 9,
-      "nombre": "Vaso de leche",
-      "descripcion": "Puedes elegir tanto fria como caliente",
-      "precio": 1000,
-      "categoria": "Bebidas-calientes",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
-    },
-     {
-      "id": 10,
-      "nombre": "Porcion Pastel",
-      "descripcion": "Deliciosa torta de chocolate",
-      "precio": 2000,
-      "categoria": "Reposteria",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
-    },
-      {
-      "id": 11,
-      "nombre": "cerveza club colombia",
-      "descripcion": "cerveza en lata",
-      "precio": 3500,
-      "categoria": "licores",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
-    },
-    {
-      "id": 12,
-      "nombre": "postre 3 leches",
-      "descripcion": "delicioso postre 1 porcion",
-      "precio": 9500,
-      "categoria": "postres",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
-    },
-     {
-      "id": 13,
-      "nombre": "galletas festival",
-      "descripcion": "da",
-      "precio": 3500,
-      "categoria": "mecato",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1gW-sYLCfjfYWjuRQEeAnL__X-7dfviqj"
-    }
+   
   ]
 }
+
 
 
 
