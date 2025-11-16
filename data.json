@@ -8,7 +8,7 @@
       "precio": 1000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJdrtd7FqTt69"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "precio": 1500,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1NxyQ1rtRY-iYkBFn3NYpkauIqY2yODIl"
+      "imagen": "https://lh3.googleusercontent.com/d/1NxyQ1rtRY-iYkBFn3NYpkaudIqY2yODIl"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "precio": 7000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyBda6BJrtd7FqTt69"
     },
       {
       "id": 4,
@@ -44,11 +44,12 @@
       "precio": 8000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyasdB6BJrtd7FqTt69"
     }
    
   ]
 }
+
 
 
 
