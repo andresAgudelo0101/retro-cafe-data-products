@@ -30,21 +30,12 @@
     },
     {
       "id": 4,
-      "nombre": "Frapuchino",
-      "descripcion": "Batido de leche hielo y cáfe, con caramelo y crema de chantilli",
-      "precio": 7000,
-      "categoria": "Bebidas-Heladas",
-      "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/18W6QF_ZBEM_sozhPtQxPGijeRQBY5GEG"
-    },
-    {
-      "id": 5,
-      "nombre": "Frape de milo",
+      "nombre": "Frape",
       "descripcion": "Batido de leche hielo y milo, con caramelo, crema de chantilli y galletas de milo",
       "precio": 10000,
       "categoria": "Bebidas-Heladas",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1kmQ86XT7j4vx33g-l7A7nN83ZuKLeSYs"
+      "imagen": "https://lh3.googleusercontent.com/d/1qxw3L9bpVnysfhvFRAuRvsAGcIPWkzVs" 
     },
     {
       "id": 6,
@@ -120,5 +111,6 @@
     }
   ]
 }
+
 
 
