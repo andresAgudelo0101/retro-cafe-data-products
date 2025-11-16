@@ -27,10 +27,29 @@
       "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+    },
+      {
+      "id": 4,
+      "nombre": "Capuchino con licor",
+      "descripcion": "Café espresso con leche vaporizada y espuma de leche y ligero toque le licor.",
+      "precio": 7000,
+      "categoria": "Bebidas-calientes",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+    },
+    {
+      "id": 5,
+      "nombre": "Latte",
+      "descripcion": "Espresso  con una generosa cantidad de leche",
+      "precio": 8000,
+      "categoria": "Bebidas-calientes",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
     }
    
   ]
 }
+
 
 
 
