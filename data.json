@@ -35,7 +35,7 @@
       "precio": 10000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyB6BJrtd7FqTt69"
+      "imagen": "https://lh3.googleusercontent.com/d/1ffbqeuVmxa-L9gTlRemEGD-ASfmZletb"
     },
     {
       "id": 5,
@@ -45,10 +45,65 @@
       "categoria": "Bebidas-calientes",
       "disponible": true,
       "imagen": "https://lh3.googleusercontent.com/d/1tMsUC6-3H-XSnwevCjo1fBgrvNX_pIxa"
+    },
+    {
+      "id": 6,
+      "nombre": "Mocachino",
+      "descripcion": "Espresso leche al vapor y sirope de chocolate",
+      "precio": 9000,
+      "categoria": "Bebidas-calientes",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1n86WpywMmJbYS75S8kgNMnBmsZjCCTJu"
+    },
+    {
+      "id": 7,
+      "nombre": "Americano",
+      "descripcion": "Espresso intenso diluido en agua caliente",
+      "precio": 4000,
+      "categoria": "Bebidas-calientes",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1lNN0H8dQdShmrGINhizu8NkeMRNiPBAA"
     }
-   
+    ,
+    {
+      "id": 8,
+      "nombre": "Frappe ",
+      "descripcion": "Mezcla de hielo, café y leche endulzada con sirope de chocolate ",
+      "precio": 11000,
+      "categoria": "Bebidas-frias",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1wfw7mQlkEkOlt40jbheD5KQCjLVaG9tG"
+    },
+     {
+      "id": 9,
+      "nombre": "Latte ",
+      "descripcion": "Expresso sobre hielo y leche endulzado con sirope de chocolate",
+      "precio": 10000,
+      "categoria": "Bebidas-frias",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1u2rmQSGCZ-kradQ7B3udcWJMvQujaDNL"
+    },
+     {
+      "id": 10,
+      "nombre": "Orange Coffe ",
+      "descripcion": "Expresso sobre hielo y jugo de naranja",
+      "precio": 7000,
+      "categoria": "Bebidas-frias",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1PFf-C_1gsCos8VAfTCQloW0BD8cv2YsW"
+    }, 
+    {
+      "id": 11,
+      "nombre": "Affogato",
+      "descripcion": "Helado con expresso y salsa de chocolate",
+      "precio": 12000,
+      "categoria": "Bebidas-frias",
+      "disponible": true,
+      "imagen": "https://lh3.googleusercontent.com/d/1qxw3L9bpVnysfhvFRAuRvsAGcIPWkzVs"
+    }
   ]
 }
+
 
 
 
