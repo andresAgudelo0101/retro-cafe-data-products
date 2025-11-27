@@ -26,7 +26,7 @@
       "precio": 7000,
       "categoria": "Bebidas-calientes",
       "disponible": true,
-      "imagen": "https://lh3.googleusercontent.com/d/1-8QPJ4ABkZp8jnYfzyBda6BJrtd7FqTt69"
+      "imagen": "https://lh3.googleusercontent.com/d/1ffbqeuVmxa-L9gTlRemEGD-ASfmZletb"
     },
       {
       "id": 4,
@@ -103,6 +103,7 @@
     }
   ]
 }
+
 
 
 
